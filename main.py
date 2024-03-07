@@ -62,8 +62,9 @@ class NewsletterCrew:
         task1 = Task(
             description=f"""Take a list of websites that contain AI content, read/scrape the content and then pass it to the writer agent
       
-      here are the URLs from the user that you need to scrape: {self.urls}""",
+    here are the URLs from the user that you need to scrape: {self.urls}""",
             agent=scraper,
+            expected_output="A string or object that represents what the task is expected to produce",
         )
 
         task2 = Task(
