@@ -8,6 +8,29 @@ if not openai_api_key:
     raise ValueError("Please set the OPENAI_API_KEY environment variable.")
 os.environ["OPENAI_API_KEY"] = openai_api_key
 
+
+#### CURRENT TOOLS AVAILABLE WITHIN CREW AI
+##---------------------------------------##
+#### SerperDevTool: Google Serper Search
+#### ScrapeWebsiteTool: Scrape Website
+#### DirectoryReadTool: Directory Read
+#### FileReadTool: File Read
+#### SeleniumScrapingTool: Selenium Scraper
+#### DirectorySearchTool: Directory RAG Search
+#### PDFSearchTool: PDF RAG Search
+#### TXTSearchTool: TXT RAG Search
+#### CSVSearchTool: CSV RAG Search
+#### XMLSearchTool: XML RAG Search
+#### JSONSearchTool: JSON RAG Search
+#### DOCXSearchTool: DOCX RAG Search
+#### MDXSearchTool: MDX RAG Search
+#### PGSearchTool: PG RAG Search
+#### WebsiteSearchTool: Website RAG Search
+#### GitHubSearchTool: Github RAG Search
+#### YoutubeVideoSearchTool: Youtube Video RAG Search
+#### YoutubeChannelSearchTool: Youtube Channel RAG Search
+
+
 scrape_tool = ScraperTool().scrape
 
 
