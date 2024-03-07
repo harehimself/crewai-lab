@@ -71,6 +71,7 @@ class NewsletterCrew:
             description="""Using the text provided by the scraper agent, develop a short and compelling/interesting short-form summary of the 
       text provided to you about AI""",
             agent=writer,
+            expected_output="A string or object that represents what the task is expected to produce",
         )
 
         # Instantiate your crew with a sequential process
