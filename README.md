@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/harehimself/hare_crewai/blob/master/readme-title.png" alt="Hare Crew AI Lab">
+   <img src="https://raw.githubusercontent.com/harehimself/hare_crewai/master/Hare_CrewAI-Lab.png" alt="Hare Crew AI Lab">
 </p>
 
 <p align="center">
