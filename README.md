@@ -1,4 +1,36 @@
 <p align="center">
+   <img src="https://raw.githubusercontent.com/harehimself/crewai-lab/master/crewai-lab.png">
+</p>
+
+<p align="center">
+   A testing ground for multi-agent coordination using CrewAI. Demonstrates agent roles, delegation, and planning using real task flows. Integrates tools, memory, and LLMs for collaborative execution. Includes working scenarios for knowledge synthesis and task automation. Clear separation of agents and orchestration logic. Great for exploring crew-based AI architectures.
+</p>
+<br>
+
+<p align="center">
+  <a href="https://github.com/harehimself/crewai-lab/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/harehimself/crewai-lab" alt="Contributors"></a>
+  <a href="https://github.com/harehimself/crewai-lab/network/members">
+    <img src="https://img.shields.io/github/forks/harehimself/crewai-lab" alt="Forks"></a>
+  <a href="https://github.com/harehimself/crewai-lab/stargazers">
+    <img src="https://img.shields.io/github/stars/harehimself/crewai-lab" alt="Stars"></a>
+  <a href="https://github.com/harehimself/crewai-lab/issues">
+    <img src="https://img.shields.io/github/issues/harehimself/crewai-lab" alt="Issues"></a>
+  <a href="https://github.com/harehimself/crewai-lab/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/harehimself/crewai-lab" alt="MIT License"></a>
+</p>
+
+<br><br>
+
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents-1)
+- [Features](#features)
+- [Benefits](#benefits)
+- [How It Compares](#how-it-compares)
+- [License](#license)
+
+<p align="center">
    <img src="https://raw.githubusercontent.com/harehimself/crewai-lab/master/Hare_CrewAI-Lab.png">
 </p>
 
@@ -24,11 +56,11 @@
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents-1)
 - [Features](#features)
-- [Benefits](#features)
-- [How It Compares](#features)
+- [Benefits](#benefits)
+- [How It Compares](#how-it-compares)
 - [License](#license)
-<br>
 
 ## Features
 - Modular agent architecture for easy integration of diverse agent types
